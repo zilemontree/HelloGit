@@ -12,5 +12,6 @@ import java.net.SocketTimeoutException;
 public class HelloGitController {
     public static void main(String[] args) {
         System.out.println("测试reset type");
+        System.out.println("dev分支");
     }
 }
