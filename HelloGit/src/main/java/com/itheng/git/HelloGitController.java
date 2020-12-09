@@ -14,5 +14,6 @@ public class HelloGitController {
         System.out.println("测试reset type");
         System.out.println("dev分支");
         System.out.println("主干在第16行添加了一行代码>>>>>>>>>>>主干");
+        System.out.println("dev分支在第16行添加了一行代码dev");
     }
 }
